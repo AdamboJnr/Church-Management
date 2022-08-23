@@ -1,0 +1,5 @@
+The cab file for your application has been built as 'C:\Users\Ryan Gitau\Desktop\PROJECT (VBoxSvr)\SETUP\SETUP2\PCEA CHURCH MANAGEMENT SYSTEM2.CAB'.
+
+There is also a batch file in the support directory (C:\Users\Ryan Gitau\Desktop\PROJECT (VBoxSvr)\SETUP\SETUP2\Support\PCEA CHURCH MANAGEMENT SYSTEM2.BAT) that will allow you to recreate the cab file in case you make changes to some of the files.
+
+You have included mdac_typ.exe in your installation package.  If you will be installing this package on a Windows 95/98 system, it will require DCOM98 to install properly.
